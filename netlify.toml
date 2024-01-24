@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://referral.takebackontario.ca/*"
+to = "https://docs.google.com/forms/d/e/1FAIpQLSfsqLZbrsr0cTJKhfM1EjcLyMMvJV1i-bOMuBxNwOYGgwy7lw/viewform"
+status = 301
+force = true
